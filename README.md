@@ -102,7 +102,7 @@ O código foi escrito com foco na compreensão dos algoritmos e nas restrições
 
 A implementação serve como estudo dos mecanismos de uma Árvore B+; seus invariantes e casos extremos ainda merecem validação com testes adicionais antes de qualquer uso além do contexto didático.
 
-## 📚 Referências Bibliográficas
+## Referências Bibliográficas
 
 Este projeto foi desenvolvido com base nos fundamentos teóricos e algoritmos apresentados nas seguintes obras:
 
@@ -114,9 +114,3 @@ Este projeto foi desenvolvido com base nos fundamentos teóricos e algoritmos ap
 
 3. **SZWARCFITER, Jayme Luiz; MARKENZON, Lilian.** *Estruturas de Dados e Seus Algoritmos*. 3ª edição. LTC, 2010.
    - Conceitos de estruturas de dados, árvores de múltiplos caminhos, organização hierárquica e manutenção de árvores de busca.
-
-## Autor
-
-**Sérgio Calazans** — Bacharelado em Ciência da Computação, PUCPR.
-
-[GitHub](https://github.com/sergiocalazans)
